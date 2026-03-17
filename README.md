@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- ======================= -->
+<!-- BANNER PRINCIPAL -->
+<!-- Reemplaza el link de abajo con tu banner -->
+<!-- Tamaño recomendado: 1500x400 -->
+<!-- ======================= -->
 
-<!--
-**andresrincones504-gif/andresrincones504-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- ======================= -->
+<!-- NOMBRE + FOTO -->
+<!-- Cambia TU_NOMBRE y el link de la imagen -->
+<!-- ======================= -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="65%">
+
+# 👋 Hola, soy **Andres**
+
+💻 Desarrollador apasionado por la tecnología y la creación de soluciones mediante software.
+
+- 🌱 Actualmente aprendiendo: **Python / JavaScript**
+- 🔧 Intereses: **automatización, desarrollo web, IA**
+- 🤝 Abierto a colaborar en **open source**
+- 📫 Contacto: **correo@email.com**
+
+</td>
+
+<td width="35%">
+
+<!-- FOTO / AVATAR -->
+<img src="https://i.imgur.com/QIrZWGIs.jpg" width="200px"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Conocimientos
+
+**Lenguajes**
+- Python
+- c#
+
+**Desarrollo**
+- HTML
+- CSS
+
+**Herramientas**
+- Git
+- Docker
+- Linux
+- VS Code
+
+---
+
+## 🛠️ Tecnologías
+
+![Tech](https://skillicons.dev/icons?i=python,c#)
+
+---
+
+## 🌐 Redes
+
+[LinkedIn](https://linkedin.com/in/TUUSUARIO)  
+[GitHub](https://github.com/TUUSUARIO)
+
+---
+
+## ✨ Filosofía
+
+> "Aprender constantemente es la clave para mejorar."
