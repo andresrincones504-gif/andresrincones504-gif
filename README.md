@@ -15,7 +15,7 @@
 <tr>
 <td width="65%">
 
-# 👋 Hola, soy **Andres**
+# 👋 Hola, soy Andres Rincones
 
 💻 Desarrollador apasionado por la tecnología y la creación de soluciones mediante software.
 
@@ -63,8 +63,8 @@
 
 ## 🌐 Redes
 
-[LinkedIn](https://linkedin.com/in/TUUSUARIO)  
-[GitHub](https://github.com/TUUSUARIO)
+[Instagram](https://www.instagram.com/andres_rincones_5?igsh=d25nbWNqenA3M3ds)  
+[GitHub]()
 
 ---
 
