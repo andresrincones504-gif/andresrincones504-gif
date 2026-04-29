@@ -29,7 +29,8 @@
 <td width="35%">
 
 <!-- FOTO / AVATAR -->
-<img src="https://i.imgur.com/QIrZWGIs.jpg" width="200px"/>
+<img width="1200" height="1600" alt="WhatsApp-Image-2026-04-29-at-7 00 28-AM-_1_" src="https://github.com/user-attachments/assets/31401351-a59f-4ccf-8fc4-709798556420" />
+
 
 </td>
 </tr>
