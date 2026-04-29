@@ -19,10 +19,10 @@
 
 💻 Desarrollador apasionado por la tecnología y la creación de soluciones mediante software.
 
-- 🌱 Actualmente aprendiendo: **Python / JavaScript**
+- 🌱 Actualmente aprendiendo: **Python / C#**
 - 🔧 Intereses: **automatización, desarrollo web, IA**
 - 🤝 Abierto a colaborar en **open source**
-- 📫 Contacto: **correo@email.com**
+- 📫 Contacto: **andresrincones504@gmail.com**
 
 </td>
 
