@@ -49,7 +49,6 @@
 
 **Herramientas**
 - Git
-- Docker
 - Linux
 - VS Code
 
